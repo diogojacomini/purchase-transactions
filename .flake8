@@ -1,0 +1,6 @@
+[flake8]
+ignore = E501
+exclude = 
+    .git,
+    __pychache__,
+    __init__.py
